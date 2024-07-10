@@ -1,6 +1,9 @@
 # World-Bank-Data-Analysis
 In this project, I analyzed global population data spanning from 1960 to 2015 using Python and Jupyter Notebook. The analysis focused on key indicators such as life expectancy, fertility rates, and mortality rates across various countries.
 
+**Link**
+https://colab.research.google.com/drive/1uTJE0r738659LDCB8BAu356MMmfNqNfN?usp=sharing
+
 **Key Findings:**
 
 **Life Expectancy**: Observed a significant increase in global average life expectancy by around 20 years.
