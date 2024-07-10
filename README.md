@@ -2,10 +2,13 @@
 In this project, I analyzed global population data spanning from 1960 to 2015 using Python and Jupyter Notebook. The analysis focused on key indicators such as life expectancy, fertility rates, and mortality rates across various countries.
 
 **Key Findings:**
+
 **Life Expectancy**: Observed a significant increase in global average life expectancy by around 20 years.
 **Fertility Rates**: Noted a decline in global fertility rates from an average of 5 children per woman to 2.5 children per woman.
 **Mortality Rates**: Analyzed trends in mortality rates, highlighting improvements in healthcare and living standards.
+
 **Regional Insights:**
+
 **Asia:** Identified rapid population growth and significant improvements in life expectancy.
 **Europe and North America:** Observed population stabilization with moderate increases in life expectancy.
 **Africa:** Highlighted challenges with higher fertility rates and lower life expectancy compared to other regions.
